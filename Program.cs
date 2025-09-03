@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("  __\r\n<(o )___\r\n ( ._> /\r\n  `---'  ");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
